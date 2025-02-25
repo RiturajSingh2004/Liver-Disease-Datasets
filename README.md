@@ -1,7 +1,7 @@
 **Dataset Info** <br>
-<u> Fatty Liver Dataset: <u><br>
+<u> Fatty Liver Dataset: </u><br>
 https://figshare.com/articles/dataset/BEHSOF_Advanced_Non-alcoholic_fatty_liver_dataset_with_clinical_metadata_and_ultrasound_images_for_Deep_learning_Models/26389069 <br>
-<u> Hepatitis C Dataset: <u><br>
+<u> Hepatitis C Dataset: </u><br>
 https://archive.ics.uci.edu/dataset/571/hcv+data <br>  
 OR <br>
 directly import in python <br>
