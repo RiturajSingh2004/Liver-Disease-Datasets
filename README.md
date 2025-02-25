@@ -1,11 +1,11 @@
-**Dataset Info**
-<u> Fatty Liver Dataset: <u>
-https://figshare.com/articles/dataset/BEHSOF_Advanced_Non-alcoholic_fatty_liver_dataset_with_clinical_metadata_and_ultrasound_images_for_Deep_learning_Models/26389069
-<u> Hepatitis C Dataset: <u>
-https://archive.ics.uci.edu/dataset/571/hcv+data  
-OR
-directly import in python
-Install the ucimlrepo package
+**Dataset Info** <br>
+<u> Fatty Liver Dataset: <u><br>
+https://figshare.com/articles/dataset/BEHSOF_Advanced_Non-alcoholic_fatty_liver_dataset_with_clinical_metadata_and_ultrasound_images_for_Deep_learning_Models/26389069 <br>
+<u> Hepatitis C Dataset: <u><br>
+https://archive.ics.uci.edu/dataset/571/hcv+data <br>  
+OR <br>
+directly import in python <br>
+Install the ucimlrepo package <br>
 ```python 
 pip install ucimlrepo
 ```
@@ -26,8 +26,8 @@ print(hcv_data.metadata)
 # variable information 
 print(hcv_data.variables) 
 ```
-OR
-Import from Kaggle
+OR <br>
+Import from Kaggle <br>
 ```python
 import kagglehub
 
