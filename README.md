@@ -1,4 +1,4 @@
-### <ins> Dataset Info </ins><br>
+### <ins><b> Dataset Info </b></ins><br>
 ## <ins> Fatty Liver Dataset: </ins><br>
 https://figshare.com/articles/dataset/BEHSOF_Advanced_Non-alcoholic_fatty_liver_dataset_with_clinical_metadata_and_ultrasound_images_for_Deep_learning_Models/26389069 <br>
 ## <ins> Hepatitis C Dataset: </ins><br>
