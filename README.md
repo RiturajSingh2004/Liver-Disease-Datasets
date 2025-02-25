@@ -35,6 +35,6 @@ import kagglehub
 path = kagglehub.dataset_download("fedesoriano/hepatitis-c-dataset")
 
 print("Path to dataset files:", path)
-``
+```
 <center>![image](https://github.com/user-attachments/assets/7f74c89b-1c51-49d8-8abb-0551181893d1)</center>
 
